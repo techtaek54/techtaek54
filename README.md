@@ -1,7 +1,7 @@
 # 👍 Welcome !
 
 <div align="center">
-![오류아님]("./README.assets/nobug.jpg") 
+    <img src="./README.assets/nobug.jpg">
 </div>
 
 <div align="center">처음부터 버그는 없었습니다만?</div>
@@ -14,7 +14,7 @@
 
   - 2022.06 ~ 2022.12
 
-    
+
 
 - B.S., Mechanical Engineering, Pusan National University
 
@@ -33,9 +33,7 @@
 
 # 📊 Stats
 
-![techtaek54's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtaek54&show_icons=true&theme=tokyonight)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtaek54&layout=compact&theme=tokyonight)
-
+<div align="center">
+  ![techtaek54's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtaek54&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtaek54&layout=compact&theme=tokyonight)
+</div>
