@@ -32,8 +32,5 @@
 
 
 # 📊 Stats
+![techtaek54's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtaek54&show_icons=true&theme=tokyonight)
 
-<div align="center">
-  ![techtaek54's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtaek54&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtaek54&layout=compact&theme=tokyonight)
-</div>
