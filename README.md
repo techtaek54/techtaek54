@@ -1,14 +1,23 @@
-# 👍 안녕하세요 !
+# 👍 Welcome !
+
+![nobug](README.assets/nobug.jpg)
 
 
+
+<div>처음부터 버그는 없었습니다만?</div>
 
 
 
 # 🏛 Education
 
 - Multicampus K-digital training  **`Current`**
+
   - 2022.06 ~ 2022.12
+
+    
+
 - B.S., Mechanical Engineering, Pusan National University
+
   - 2014.03 ~ 2022.02
   - Minor : Electrical Engineering
 
@@ -23,10 +32,6 @@
 
 
 # 📊 Stats
-
-# 
-
-<div> </div>
 
 ![techtaek54's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtaek54&show_icons=true&theme=tokyonight)
 
