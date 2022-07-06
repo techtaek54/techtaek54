@@ -1,6 +1,8 @@
 # 👍 Welcome !
 
-<img src="./README.assets/nobug.jpg" align="center">
+<div align="center">
+![오류아님]("./README.assets/nobug.jpg") 
+</div>
 
 <div align="center">처음부터 버그는 없었습니다만?</div>
 
