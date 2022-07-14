@@ -43,5 +43,15 @@
 
 
 # 📊 Stats
+
+
+
 ![techtaek54's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtaek54&show_icons=true&theme=tokyonight)
+
+
+
+[![Solved.ac
+profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soltaek54)](https://solved.ac/soltaek54)
+
+
 
