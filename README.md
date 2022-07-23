@@ -1,3 +1,5 @@
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechtaek54&count_bg=%233DC7C8&title_bg=%234D4D4D&icon=skyliner.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+
 # 👍 Welcome !
 
 <div align="center">
@@ -7,15 +9,9 @@
 <div align="center">처음부터 버그는 없었습니다만?</div>
 
 
-
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftechtaek54&count_bg=%233DC7C8&title_bg=%234D4D4D&icon=skyliner.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-</div>
-
-
 # 🏛 Education
 
-- Multicampus K-digital training  **`Current`**
+- Multicampus K-digital training : Full stack developer  **`Current`**
 
   - 2022.06 ~ 2022.12
 
@@ -26,7 +22,17 @@
   - 2014.03 ~ 2022.02
 
 
+# 📂 Main Repository
+- [Project](https://github.com/techtaek54/Project)
+  - [Personal Project]()
+    - [[개인 1차] JSON을 활용한 Python기반 데이터 활용](https://github.com/techtaek54/Project/tree/master/Personal_Project/KDT01_Python_JSON)
+    - [[개인 2차] requests library을 활용한 Python기반 데이터 활용](https://github.com/techtaek54/Project/tree/master/Personal_Project/KDT02_Python_API_requests)
 
+- [Algorithms](https://github.com/techtaek54/Algorithms)
+  - `codeup` `BOJ` `SWEA` `KDT` 등 다양한 알고리즘 문제 풀이 
+
+- [Multicampus](https://github.com/techtaek54/Multicampus)
+  - K-digital 과정 중 TIL 및 관련 내용 
 
 
 
