@@ -3,11 +3,10 @@
 # 👍 Welcome !
 
 <div align="center">
-    <img src="./README.assets/nobug.jpg">
+    <img src="./README.assets/howto.jpg">
 </div>
 
-<div align="center">처음부터 버그는 없었습니다만?</div>
-
+<div align="center">어떤 문제든 반드시 해결합니다!</div>
 
 # 🏛 Education
 
@@ -24,11 +23,11 @@
 
 # 📂 Main Repository
 - [Project](https://github.com/techtaek54/Project)
-  - [Personal Project]()
+  - [Personal Project](https://github.com/techtaek54/Project/tree/master/Personal_Project)
     - [[개인 1차] JSON을 활용한 Python기반 데이터 활용](https://github.com/techtaek54/Project/tree/master/Personal_Project/KDT01_Python_JSON)
     - [[개인 2차] requests library을 활용한 Python기반 데이터 활용](https://github.com/techtaek54/Project/tree/master/Personal_Project/KDT02_Python_API_requests)
 
-- [Algorithms](https://github.com/techtaek54/Algorithms)
+- [Algorithm](https://github.com/techtaek54/Algorithm)
   - `codeup` `BOJ` `SWEA` `KDT` 등 다양한 알고리즘 문제 풀이 
 
 - [Multicampus](https://github.com/techtaek54/Multicampus)
@@ -37,27 +36,16 @@
 
 
 # 💻 My toolbox
-
-<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>     <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>     <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>     <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>     <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-
-
-
-
-
-
-
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>     <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>     <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>     <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>     
 
 
 # 📊 Stats
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtaek54)](https://github.com/techtaek54/github-readme-stats)
 
-![techtaek54's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtaek54&show_icons=true&theme=tokyonight)
-
-
-
-[![Solved.ac
-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soltaek54)](https://solved.ac/soltaek54)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soltaek54)](https://solved.ac/soltaek54)
 
 
 
